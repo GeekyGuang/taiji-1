@@ -1,9 +1,10 @@
 let demo = document.querySelector("#html");
 let style = document.querySelector("#style");
-let message = `/* 大家好
-  * 看我表演
-  * 把一个div变成太极图
-  * 您可瞧好了
+let message = `/* 准备好了吗？
+  * 让我们
+  * 把一个div变成太极图吧
+  * Ready
+  * Go!
   */
 
 /* 准备一个div */
