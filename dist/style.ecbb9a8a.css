@@ -1,0 +1,2 @@
+*{margin:0;padding:0}*,:after,:before{box-sizing:border-box}#html{word-break:break-all}#wrapper{position:fixed;left:50%;top:20px}@media (max-width:500px){#html{height:50vh;overflow:hidden}#wrapper{height:50vh;position:static;right:0;top:0}#taiji{position:relative;left:50%;top:50%;transform:translate(-50%,-50%)}}
+/*# sourceMappingURL=style.ecbb9a8a.css.map */
